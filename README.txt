@@ -1,0 +1,1 @@
+Add your photo as assets/img/karthick.jpg (JPG/PNG). Open index.html to start. Upload to GitHub Pages for hosting.
