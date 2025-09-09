@@ -1,1 +1,1 @@
-Add your photo as assets/img/karthick.jpg (JPG/PNG). Open index.html to start. Upload to GitHub Pages for hosting.
+this is my first website created by Karthick G. With love and hard work.
